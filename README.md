@@ -9,3 +9,6 @@
 # [API Documentation Best Practices](https://github.com/user-attachments/files/15520286/APIsecCourseCertificate20240530-8-e798lg.pdf)
 # [API Security for Connected Cars and Fleets](https://github.com/user-attachments/files/15520285/APIsecCourseCertificate20240530-8-e4d1as.pdf)
 # [API Security Fundamentals](https://github.com/user-attachments/files/15520284/APIsecCourseCertificate20240529-8-771303.pdf)
+
+
+[f9H4CHchzrKQbnbmK_PwC Switzerland_TreDkkNRaNEsBxMKi_1721696971500_completion_certificate.pdf](https://github.com/user-attachments/files/16341946/f9H4CHchzrKQbnbmK_PwC.Switzerland_TreDkkNRaNEsBxMKi_1721696971500_completion_certificate.pdf)
