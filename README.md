@@ -1,6 +1,7 @@
 # Certs
 
 # https://www.credly.com/users/nouredden-abdelfattah/badges
+# [PwC Switzerland CyberSecurity Job Simulation](https://github.com/userattachments/files/16341946/f9H4CHchzrKQbnbmK_PwC.Switzerland_TreDkkNRaNEsBxMKi_1721696971500_completion_certificate.pdf)
 
 # [API Penetration Testing](https://github.com/user-attachments/files/15520283/APIsecCourseCertificate20240531-8-y3zf5i.pdf)
 # [Securing API Servers](https://github.com/user-attachments/files/15520289/APIsecCourseCertificate20240531-8-l9ro75.pdf)
@@ -11,4 +12,3 @@
 # [API Security Fundamentals](https://github.com/user-attachments/files/15520284/APIsecCourseCertificate20240529-8-771303.pdf)
 
 
-[f9H4CHchzrKQbnbmK_PwC Switzerland_TreDkkNRaNEsBxMKi_1721696971500_completion_certificate.pdf](https://github.com/user-attachments/files/16341946/f9H4CHchzrKQbnbmK_PwC.Switzerland_TreDkkNRaNEsBxMKi_1721696971500_completion_certificate.pdf)
